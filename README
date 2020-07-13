@@ -1,0 +1,11 @@
+To create a saltunnel rpm:
+==========================
+Run the following from this directory:
+
+    rpmdev-newspec saltunnel
+
+    cp saltunnel.spec ~/rpmbuild/SPECS/
+    cp saltunnel-0.0.1.tar.gz ~/rpmbuild/RPMS/
+
+    cd ~/rpmbuild/SPECS
+    rpmbuild -ba saltunnel.spec
