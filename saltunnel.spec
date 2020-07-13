@@ -7,7 +7,7 @@ License:        Public Domain
 URL:            https://github.com/notfed/saltunnel
 Source0:        %{name}-%{version}.tar.gz
 
-BuildRequires:  gcc
+BuildRequires:  gcc automake libsodium-static libsodium-devel
 Requires:       libsodium-devel libsodium-static
 
 %description
