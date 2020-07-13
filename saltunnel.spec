@@ -8,7 +8,7 @@ URL:            https://github.com/notfed/saltunnel
 Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  gcc
-Requires:       libsodium
+Requires:       libsodium-devel libsodium-static
 
 %description
 saltunnel is a cryptographically secure TCP tunnel. It allows one to augment a normally-insecure TCP session with state-of-the-art security, with minimal hassle and minimal impact on performance.
