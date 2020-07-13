@@ -1,5 +1,9 @@
 To create a saltunnel rpm:
 ==========================
+Pre-reqs on Fedora:
+
+    sudo dnf install @development-tools rpmdevtools
+
 Run the following from this directory:
 
     rpmdev-newspec saltunnel
