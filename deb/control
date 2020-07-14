@@ -2,7 +2,7 @@ Source: saltunnel
 Section: net
 Priority: optional
 Maintainer: Jay Sullivan <jay@identity.pub>
-Build-Depends: libsodium23 libsodium-dev
+Build-Depends: libsodium23, libsodium-dev
 Standards-Version: 4.4.1
 Homepage: https://github.com/notfed/saltunnel
 
