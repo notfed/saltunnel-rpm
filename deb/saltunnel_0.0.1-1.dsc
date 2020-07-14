@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 3.0 (quilt)
 Source: saltunnel
 Binary: saltunnel
@@ -21,18 +18,3 @@ Checksums-Sha256:
 Files:
  e9c7d140e5323da58f14e7d6fe0f9df7 55255 saltunnel_0.0.1.orig.tar.gz
  6a5105b0ee6eaff58c011ade3f2467ca 3744 saltunnel_0.0.1-1.debian.tar.xz
-
------BEGIN PGP SIGNATURE-----
-
-iQHFBAEBCgAvFiEEdsnS5H5I0TrEN5AH2rMOT4V4l44FAl8NHL4RHGpheUBpZGVu
-dGl0eS5wdWIACgkQ2rMOT4V4l47LKgwAk6YLL6Zn2G2YqgQcHn59zN+YNmac7Hfd
-mKs0q59oLY/mEd3abRG/p8uXKVSPNIxPeB/5/lRTHlykUPcUYqOrMit51v6RxuTv
-a0b+5CO6FXacwO71jwuWCMGJHAHhAZG+tOgeWh/dAZMs+RLcTmrYfiU0bOfsSpvu
-Hlit/YbCybS89Ska+SXKi3ueJMAyHxCnaZf9dk9GmI1DSL1+U/Zq1neKMhxjh8Sr
-+wQ3HVaz6v/1j8LX9TVyxXpigsBf8k2loFBneNBLFWm7zzAPkcCasOit/wAwCQu3
-WRKY2aDgzma6Bus6m4wFwef5hlabdAtntxNFhQw3ciK/8S90bzJa2RXxbnZTax6G
-rrX4h3OC3fvZEhJ+9urcdUYafKO+ZYJ8yW3IuvpBwjrxZ1XueFC8/ot8XL42fVhh
-w3BmaX9bLs+Ws5BoTIVpW9dzbzdCSSIC6uRYacPS5Qqmspuv8KDk4OrQlwM6+qmJ
-Ol1hqPubkRN8fi6NEFa1jcs5H+Bbqy2Y
-=93fn
------END PGP SIGNATURE-----
