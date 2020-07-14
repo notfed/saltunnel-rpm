@@ -1,5 +1,14 @@
 Building the debian package:
 -------------------------------
 
-(See https://wiki.debian.org/SimplePackagingTutorial.)
+(See https://wiki.debian.org/SimplePackagingTutorial for complete instructions.)
+
+From the "deb" directory, run:
+
+    cp ../saltunnel-0.0.1.tar.gz .
+    tar -xf saltunnel-0.0.1.tar.gz
+    cd saltunenl-0.0.1.tar.gz
+    debmake
+    cp ../changelog ../control ../copyright ../rules debian/
+    dpkg-buildpackage --no-sign
 
