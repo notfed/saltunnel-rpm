@@ -3,7 +3,7 @@ Building the debian package:
 
 (See https://wiki.debian.org/SimplePackagingTutorial for complete instructions.)
 
-From the "deb" directory, run:
+From the "deb" directory, copy gpg keys from dropbox (/keys), and run:
 
     cp ../saltunnel-0.0.1.tar.gz .
     tar -xf saltunnel-0.0.1.tar.gz
